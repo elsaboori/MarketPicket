@@ -1,0 +1,592 @@
+{
+    "test":"MarketPicket",
+    "stocks":[
+        {
+        "symbol":"AAA",
+        "tokens":"aaa",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"BBB",
+        "tokens":"bbb",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"CCC",
+        "tokens":"ccc",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"DDD",
+        "tokens":"ddd",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"EEE",
+        "tokens":"eee",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"FFF",
+        "tokens":"fff",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"GGG",
+        "tokens":"ggg",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"HHH",
+        "tokens":"hhh",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"III",
+        "tokens":"iii",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }, {
+        "symbol":"JJJ",
+        "tokens":"jjj",
+        "vectors": 20,
+        "indexes":[],
+        "frequencies":[]
+    }],
+    "stock_info":[
+        {
+            "symbol":"BBB",
+            "stockData":[ {
+                "Trades": 2840,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 102.12,
+                "Low": 101.98,
+                "High": 102.16,
+                "Open": 102.12,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:00:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "10:45:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201810:45:00 AM"
+            }, {
+                "Trades": 3789,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 102.09,
+                "Low": 102.04,
+                "High": 102.34,
+                "Open": 102.13,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:15:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:00:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:00:00 AM"
+            }, {
+                "Trades": 3986,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.975,
+                "Low": 101.95,
+                "High": 102.205,
+                "Open": 101.975,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:30:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:15:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:15:00 AM"
+            }, {
+                "Trades": 3605,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.84,
+                "Low": 101.80,
+                "High": 102.04,
+                "Open": 101.975,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:45:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:30:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:30:00 AM"
+            }, {
+                "Trades": 3025,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.795,
+                "Low": 101.70,
+                "High": 101.96,
+                "Open": 101.84,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "12:00:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:45:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201812:00:00 AM"
+            }]
+        },         {
+            "symbol":"AAA",
+            "stockData":[ {
+                "Trades": 2840,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 102.12,
+                "Low": 101.98,
+                "High": 102.16,
+                "Open": 102.12,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:00:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "10:45:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201810:45:00 AM"
+            }, {
+                "Trades": 3789,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 102.09,
+                "Low": 102.04,
+                "High": 102.34,
+                "Open": 102.13,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:15:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:00:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:00:00 AM"
+            }, {
+                "Trades": 3986,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.975,
+                "Low": 101.95,
+                "High": 102.205,
+                "Open": 101.975,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:30:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:15:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:15:00 AM"
+            }, {
+                "Trades": 3605,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.84,
+                "Low": 101.80,
+                "High": 102.04,
+                "Open": 101.975,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:45:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:30:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:30:00 AM"
+            }, {
+                "Trades": 3025,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.795,
+                "Low": 101.70,
+                "High": 101.96,
+                "Open": 101.84,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "12:00:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:45:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201812:00:00 AM"
+            }]
+        }, {
+            "symbol":"CCC",
+            "stockData":[ {
+                "Trades": 2840,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 102.12,
+                "Low": 101.98,
+                "High": 102.16,
+                "Open": 102.12,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:00:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "10:45:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201810:45:00 AM"
+            }, {
+                "Trades": 3789,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 102.09,
+                "Low": 102.04,
+                "High": 102.34,
+                "Open": 102.13,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:15:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:00:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:00:00 AM"
+            }, {
+                "Trades": 3986,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.975,
+                "Low": 101.95,
+                "High": 102.205,
+                "Open": 101.975,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:30:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:15:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:15:00 AM"
+            }, {
+                "Trades": 3605,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.84,
+                "Low": 101.80,
+                "High": 102.04,
+                "Open": 101.975,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "11:45:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:30:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201811:30:00 AM"
+            }, {
+                "Trades": 3025,
+                "AdjustmentRatio": 0,
+                "VWAP": 102.0764,
+                "TWAP": 102.0703,
+                "Volume": 758372,
+                "Close": 101.795,
+                "Low": 101.70,
+                "High": 101.96,
+                "Open": 101.84,
+                "UTCOffset": -4,
+                "Session": "Market",
+                "Currency": "USD",
+                "EndTime": "12:00:00 AM",
+                "EndDate": "7/11/2018",
+                "StartTime": "11:45:00 AM",
+                "StartDate": "7/11/2018",
+                "time":"7/11/201812:00:00 AM"
+            }]
+        }
+    ],
+    "sentimentalData":[
+        {
+            "symbol":"AAA",
+            "sentimental_score":0.21448333333,
+            "headLines":[
+                {
+                    "date":"7/11/2018",
+                    "headLine": "Munster Says BootCamp Gaining on Amazon Cloud Sales",
+                    "sentimental_value": 0.5423
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Stocks Rise as Focus Shifts Back to Earnings: Markets Wrap",
+                    "sentimental_value": 0.0000
+                }, 
+                {
+                    "date":"7/11/2018",
+                    "headLine": "The Top 5 BootCamp Shareholders",
+                    "sentimental_value": 0.5423
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Stock (MSFT) Surges to Record High on Cloud Report",
+                    "sentimental_value": 0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Boosts Cloud Belief and Shares With Results",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "EU's Biggest Penalties on Global Tech Companies",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Says It Stopped Cyberattacks on Three 2018 Candidates",
+                    "sentimental_value": -0.2263
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Sales Top Estimates With More Clients Signing Up for Cloud",
+                    "sentimental_value": 0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Breaking Down BootCamp's Cloud-Fueled Earnings Turnaround",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "7 Secrets You Didn't Know About BootCamp",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Gays' Right to Fatherhood Wins BootCamp Israel Support",
+                    "sentimental_value": 0.7506
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Reports Within a Zone of Risky Levels",
+                    "sentimental_value": -0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "What to Watch for in BootCamp's Fourth-Quarter Results",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "How Jeff Bezos Got to Be the World's Richest Man",
+                    "sentimental_value": 0.5267
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says He's Proud 'We Democratized Computing'",
+                    "sentimental_value": 0.4767
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says 'I Was a Very Shy Kid'",
+                    "sentimental_value": -0.3167
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says His Wife Pushed Him to Be Philanthropic",
+                    "sentimental_value": 0.0000
+                }
+                
+            ]
+        }, {
+            "symbol":"BBB",
+            "sentimental_score":0.21448333333,
+            "headLines":[
+                {
+                    "date":"7/11/2018",
+                    "headLine": "Munster Says BootCamp Gaining on Amazon Cloud Sales",
+                    "sentimental_value": 0.5423
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Stocks Rise as Focus Shifts Back to Earnings: Markets Wrap",
+                    "sentimental_value": 0.0000
+                }, 
+                {
+                    "date":"7/11/2018",
+                    "headLine": "The Top 5 BootCamp Shareholders",
+                    "sentimental_value": 0.5423
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Stock (MSFT) Surges to Record High on Cloud Report",
+                    "sentimental_value": 0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Boosts Cloud Belief and Shares With Results",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "EU's Biggest Penalties on Global Tech Companies",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Says It Stopped Cyberattacks on Three 2018 Candidates",
+                    "sentimental_value": -0.2263
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Sales Top Estimates With More Clients Signing Up for Cloud",
+                    "sentimental_value": 0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Breaking Down BootCamp's Cloud-Fueled Earnings Turnaround",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "7 Secrets You Didn't Know About BootCamp",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Gays' Right to Fatherhood Wins BootCamp Israel Support",
+                    "sentimental_value": 0.7506
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Reports Within a Zone of Risky Levels",
+                    "sentimental_value": -0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "What to Watch for in BootCamp's Fourth-Quarter Results",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "How Jeff Bezos Got to Be the World's Richest Man",
+                    "sentimental_value": 0.5267
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says He's Proud 'We Democratized Computing'",
+                    "sentimental_value": 0.4767
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says 'I Was a Very Shy Kid'",
+                    "sentimental_value": -0.3167
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says His Wife Pushed Him to Be Philanthropic",
+                    "sentimental_value": 0.0000
+                }
+                
+            ]
+        }, {
+            "symbol":"CCC",
+            "sentimental_score":0.21448333333,
+            "headLines":[
+                {
+                    "date":"7/11/2018",
+                    "headLine": "Munster Says BootCamp Gaining on Amazon Cloud Sales",
+                    "sentimental_value": 0.5423
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Stocks Rise as Focus Shifts Back to Earnings: Markets Wrap",
+                    "sentimental_value": 0.0000
+                }, 
+                {
+                    "date":"7/11/2018",
+                    "headLine": "The Top 5 BootCamp Shareholders",
+                    "sentimental_value": 0.5423
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Stock (MSFT) Surges to Record High on Cloud Report",
+                    "sentimental_value": 0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Boosts Cloud Belief and Shares With Results",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "EU's Biggest Penalties on Global Tech Companies",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Says It Stopped Cyberattacks on Three 2018 Candidates",
+                    "sentimental_value": -0.2263
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Sales Top Estimates With More Clients Signing Up for Cloud",
+                    "sentimental_value": 0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Breaking Down BootCamp's Cloud-Fueled Earnings Turnaround",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "7 Secrets You Didn't Know About BootCamp",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Gays' Right to Fatherhood Wins BootCamp Israel Support",
+                    "sentimental_value": 0.7506
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "BootCamp Reports Within a Zone of Risky Levels",
+                    "sentimental_value": -0.2023
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "What to Watch for in BootCamp's Fourth-Quarter Results",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer",
+                    "sentimental_value": 0.0000
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "How Jeff Bezos Got to Be the World's Richest Man",
+                    "sentimental_value": 0.5267
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says He's Proud 'We Democratized Computing'",
+                    "sentimental_value": 0.4767
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says 'I Was a Very Shy Kid'",
+                    "sentimental_value": -0.3167
+                }, {
+                    "date":"7/11/2018",
+                    "headLine": "Steve Ballmer Says His Wife Pushed Him to Be Philanthropic",
+                    "sentimental_value": 0.0000
+                }
+                
+            ]
+        }
+    ]
+
+
+}
